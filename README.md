@@ -8,3 +8,6 @@
 
 # Run
 ```./nginx-lda.run```
+
+# Tutorial
+https://github.com/perthcpe23/nginx-auth-request-ldap
